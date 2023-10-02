@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 About Me<br><br>Hello! I'm Vishal Kumar, a student passionate about data science, machine learning, and DevOps. I'm on a journey to learn and apply these technologies to solve real-world problems.<br><br>🌱 Interests<br><br>- 📊 **Data Science**: Enthusiastic about transforming data into insights.<br>- 🤖 **Machine Learning**: Exploring AI's potential to drive innovation.<br>- 🚀 **DevOps**: Embracing automation for efficient software development.<br><br><br>I'm always eager to collaborate on exciting projects and expand my horizons. Feel free to connect with me!
 
+[![An image of @vishalkumars's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishalkumars)](https://holopin.io/@vishalkumars)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-kumar-s-095491247) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/VishalKumarS11) 
